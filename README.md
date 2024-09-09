@@ -1,4 +1,4 @@
-# curso-git
+# Repositorio en curso git
 Repositorio para hacer el curso de git
 
 ## Descripción
